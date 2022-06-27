@@ -1,2 +1,2 @@
-# dio-projetos
-Projetos e aulas dos bootcamps da DIO
+# DIO Projetos
+Projetos e aulas dos bootcamps da DIO - Digital Innovation ONE
